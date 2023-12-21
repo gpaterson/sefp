@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/workspaces/sefp/bin/test",
+            "binaryPath": "/workspaces/sefp/bin/test/comparison",
+            "binaryArgs": []
+        }
+    ]
+}
